@@ -6,3 +6,5 @@ Competences data Scientist - Self-learning
 - https://towardsdatascience.com/80-python-interview-practice-questions-f1640eea66ac
 - https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions
 - https://www.hackerrank.com/challenges
+- https://datagenetics.com/blog/february22016/index.html
+
