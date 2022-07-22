@@ -28,3 +28,6 @@ Competences data Scientist - Self-learning
 # Coursera
 - Data Science Foundations: Data Structures and Algorithms Specialization
 - Algorithmic Toolbox
+
+# Deep Learning 
+- https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
